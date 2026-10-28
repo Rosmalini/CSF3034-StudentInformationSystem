@@ -25,6 +25,7 @@ public class StudentInformationSystem {
         
         System.out.println("Rosmalini Binti Razali");
         System.out.println("S87292");
+        System.out.println("Course: CSF3034 Programming");
         System.out.println("Mark 1: " + mark1);
         System.out.println("Mark 2: " + mark2);
         System.out.println("Total Mark: " + total);
